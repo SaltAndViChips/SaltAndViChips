@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Brandon;Software+Developer;Clean+Code.+Practical+Systems." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/saltandvichips">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=flat&logo=github" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Brandon+Sears;Software+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,7 +33,7 @@ Junior developer focused on building reliable tools and straightforward solution
 ### 🧂 <a href="https://github.com/saltandvichips/NaCl">NaCl</a>
 Discord bot focused on moderation and utility, designed for practical server management.
 
-### 🎲 <a href="https://github.com/saltandvichips/SVDnD">SVDnD</a>
+### 🎲 <a href="https://github.com/saltandvichips/DnD">SVDnD</a>
 Web-based wiki for organizing RPG campaigns, built for clarity and quick access to information.
 
 ---

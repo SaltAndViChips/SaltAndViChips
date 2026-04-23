@@ -17,6 +17,7 @@ Junior developer focused on building reliable tools and straightforward solution
   <code>JavaScript</code>
   <code>Java</code>
   <code>SQL</code>
+  <code>Typescript</code>
 </p>
 
 <p>
